@@ -1,9 +1,6 @@
-//
 //  RickandmortyDemoApp.swift
 //  RickandmortyDemo
-//
 //  Created by Irina Arkhireeva on 26.02.2025.
-//
 
 import SwiftUI
 
@@ -11,7 +8,7 @@ import SwiftUI
 struct RickandmortyDemoApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            CharactersListView()
         }
     }
 }

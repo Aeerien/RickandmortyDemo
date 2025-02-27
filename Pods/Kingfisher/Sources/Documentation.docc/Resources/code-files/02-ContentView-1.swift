@@ -1,10 +1,3 @@
-//
-//  ContentView.swift
-//  RickandmortyDemo
-//
-//  Created by Irina Arkhireeva on 26.02.2025.
-//
-
 import SwiftUI
 
 struct ContentView: View {
@@ -17,8 +10,4 @@ struct ContentView: View {
         }
         .padding()
     }
-}
-
-#Preview {
-    ContentView()
 }
